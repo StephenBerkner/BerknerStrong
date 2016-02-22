@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+  
+}
+
+#banner {
+  background-image: url("../img/lateNightContinuum.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
